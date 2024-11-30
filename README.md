@@ -32,18 +32,18 @@ I'm Joe Hall Lee, a senior undergraduate student from Harbin Institute of Techno
 
 <!-- GitHub README Stats -->
 <p align="center">
-  <table>
+  <table style="border-collapse: collapse;">
     <tr>
-      <td>
+      <td width="50%" style="padding: 10px;">
         <a href="https://github.com/Joe-Hall-Lee?tab=repositories">
           <img width="100%" height="auto" alt="Joe Hall Lee's github stats" 
                src="https://github-readme-stats.vercel.app/api?username=Joe-Hall-Lee&show_icons=true&theme=algolia&count_private=true" />
         </a>
       </td>
-      <td>
+      <td width="50%" style="padding: 10px;">
         <a href="https://github.com/Joe-Hall-Lee?tab=repositories">
           <img width="100%" height="auto" alt="Joe Hall Lee's top languages" 
-               src="https://github-readme-stats.vercel.app/api/top-langs/?username=joykishansharma&layout=compact" />
+               src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joe-Hall-Lee&layout=compact" />
         </a>
       </td>
     </tr>

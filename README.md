@@ -8,7 +8,7 @@ I'm Joe Hall Lee, a senior undergraduate student from Harbin Institute of Techno
 
 - 👨🏽‍💻 I’m currently working @CESI
 - 🌱 I’m currently learning @HIT
-- 🎿 Hobbies: Listening to and performing crosstalk, Listening to and performing Storytelling, Playing Chinese chess
+- 🎿 Hobbies: Listening to and performing crosstalk, Listening to and performing pingshu, Playing Chinese chess
 - 📫 How to reach me: hongli.joe@gmail.com
 - 📝 [Homepage](https://joe-hall-lee.github.io)
 
@@ -34,13 +34,13 @@ I'm Joe Hall Lee, a senior undergraduate student from Harbin Institute of Techno
 <div style="display: flex; justify-content: space-between;">
   <div>
     <a href="https://github.com/Joe-Hall-Lee?tab=repositories">
-      <img width="48%" alt="Joe Hall Lee's github stats" 
+      <img width="45%" alt="Joe Hall Lee's github stats" 
            src="https://github-readme-stats.vercel.app/api?username=Joe-Hall-Lee&show_icons=true&theme=algolia&count_private=true" />
     </a>
   </div>
   <div>
     <a href="https://github.com/Joe-Hall-Lee?tab=repositories">
-      <img width="48%" alt="Joe Hall Lee's github stats" 
+      <img width="45%" alt="Joe Hall Lee's github stats" 
            src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joe-Hall-Lee&layout=compact" />
     </a>
   </div>

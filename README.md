@@ -12,15 +12,13 @@ I'm Joe Hall Lee, a senior undergraduate student from Harbin Institute of Techno
 - 📫 How to reach me: hongli.joe@gmail.com
 - 📝 [Homepage](https://joe-hall-lee.github.io)
 
-### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Languages and Tools:
+### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Languages and Tools
 
 <!-- GitHub README Stats -->
 <p>
     <img width="55%" align="right" alt="Joe Hall Lee's github stats" src="https://github-readme-stats.vercel.app/api?username=Joe-Hall-Lee&show_icons=true&hide_border=true"/>
 
-  <!-- Your languages and tools. Be careful with the alignment. 
-  You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
-  -->
+  <!-- You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/ -->
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg"></code>

@@ -31,19 +31,23 @@ I'm Joe Hall Lee, a senior undergraduate student from Harbin Institute of Techno
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
 
 <!-- GitHub README Stats -->
-<div style="display: flex; justify-content: space-between;">
-  <div>
-    <a href="https://github.com/Joe-Hall-Lee?tab=repositories">
-      <img width="45%" alt="Joe Hall Lee's github stats" 
-           src="https://github-readme-stats.vercel.app/api?username=Joe-Hall-Lee&show_icons=true&theme=algolia&count_private=true" />
-    </a>
-  </div>
-  <div>
-    <a href="https://github.com/Joe-Hall-Lee?tab=repositories">
-      <img width="45%" alt="Joe Hall Lee's github stats" 
-           src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joe-Hall-Lee&layout=compact" />
-    </a>
-  </div>
-</div>
+<p align="center">
+  <table>
+    <tr>
+      <td>
+        <a href="https://github.com/Joe-Hall-Lee?tab=repositories">
+          <img width="100%" height="auto" alt="Joe Hall Lee's github stats" 
+               src="https://github-readme-stats.vercel.app/api?username=Joe-Hall-Lee&show_icons=true&theme=algolia&count_private=true" />
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/Joe-Hall-Lee?tab=repositories">
+          <img width="100%" height="auto" alt="Joe Hall Lee's top languages" 
+               src="https://github-readme-stats.vercel.app/api/top-langs/?username=joykishansharma&layout=compact" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</p>
 
 <h4 align="center"> Thanks for Visiting! </h4>

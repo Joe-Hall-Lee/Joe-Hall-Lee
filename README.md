@@ -12,7 +12,7 @@ I'm Joe Hall Lee, a senior undergraduate student from Harbin Institute of Techno
 - 📫 How to reach me: hongli.joe@gmail.com
 - 📝 [Homepage](https://joe-hall-lee.github.io)
 
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> ### Languages and Tools:
+### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Languages and Tools:
 
 <!-- GitHub README Stats -->
 <p>

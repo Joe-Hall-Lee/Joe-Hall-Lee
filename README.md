@@ -1,7 +1,7 @@
 <!-- Greeting -->
 # Hi there! :wave::smiley:
 
-<!--Introduction -->
+<!-- Introduction -->
 I'm Joe Hall Lee, a senior undergraduate student from Harbin Institute of Technology (HIT).
 
 ### ✨ Quick Facts
@@ -12,12 +12,15 @@ I'm Joe Hall Lee, a senior undergraduate student from Harbin Institute of Techno
 - 📫 How to reach me: hongli.joe@gmail.com
 - 📝 [Homepage](https://joe-hall-lee.github.io)
 
- ### Languages and Tools: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+### Languages and Tools: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
+![Pytorch](https://img.shields.io/badge/-Pytorch-black?style=flat-square&logo=pytorch)
+![Tensorflow](https://img.shields.io/badge/-Tensorflow-black?style=flat-square&logo=tensorflow)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Redux](https://img.shields.io/badge/-Redux-black?style=flat-square&logo=Redux)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)
 ![SCSS](https://img.shields.io/badge/-SCSS-black?style=flat-square&logo=SASS)
@@ -27,13 +30,20 @@ I'm Joe Hall Lee, a senior undergraduate student from Harbin Institute of Techno
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
 
-<p align="center" style="display: flex; justify-content: center; gap: 20px;">
-  <a href="https://github.com/Joe-Hall-Lee?tab=repositories" style="flex: 1;">
-    <img width="100%" height="auto" alt="Joe Hall Lee's github stats" 
-         src="https://github-readme-stats.vercel.app/api?username=Joe-Hall-Lee&show_icons=true&theme=algolia&count_private=true" />
-  </a>
-  <a href="https://github.com/Joe-Hall-Lee?tab=repositories" style="flex: 1;">
-    <img width="100%" height="auto" alt="Joe Hall Lee's top languages" 
-         src="https://github-readme-stats.vercel.app/api/top-langs/?username=joykishansharma&layout=compact" />
-  </a>
-</p>
+<!-- GitHub README Stats -->
+<div style="display: flex; justify-content: space-between;">
+  <div>
+    <a href="https://github.com/Joe-Hall-Lee?tab=repositories">
+      <img width="48%" alt="Joe Hall Lee's github stats" 
+           src="https://github-readme-stats.vercel.app/api?username=Joe-Hall-Lee&show_icons=true&theme=algolia&count_private=true" />
+    </a>
+  </div>
+  <div>
+    <a href="https://github.com/Joe-Hall-Lee?tab=repositories">
+      <img width="48%" alt="Joe Hall Lee's github stats" 
+           src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joe-Hall-Lee&layout=compact" />
+    </a>
+  </div>
+</div>
+
+<h4 align="center"> Thanks for Visiting! </h4>

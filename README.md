@@ -2,11 +2,10 @@
 # Hi there! :wave::smiley:
 
 <!-- Introduction -->
-I'm Joe Hall Lee, a senior undergraduate student from Harbin Institute of Technology (HIT).
+I'm Hongli Zhou, a senior undergraduate student from Harbin Institute of Technology (HIT).
 
 ### ✨ Quick Facts
 
-- 👨🏽‍💻 I’m currently working @CESI
 - 🌱 I’m currently learning @HIT
 - 🎿 Hobbies: Crosstalk, Pingshu, Chinese Chess
 - 📫 How to reach me: hongli.joe@gmail.com

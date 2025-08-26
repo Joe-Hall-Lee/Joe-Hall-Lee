@@ -15,7 +15,7 @@ I'm Hongli Zhou, a Ph.D. student from Harbin Institute of Technology (HIT).
 
 <!-- GitHub README Stats -->
 <p>
-    <img width="55%" align="right" alt="Joe Hall Lee's github stats" src="https://github-readme-stats.vercel.app/api?username=Joe-Hall-Lee&show_icons=true&hide_border=true"/>
+    <img width="55%" align="right" alt="Hongli Zhou's github stats" src="https://github-readme-stats.vercel.app/api?username=Joe-Hall-Lee&show_icons=true&hide_border=true"/>
 
   <!-- You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/ -->
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
@@ -36,7 +36,12 @@ I'm Hongli Zhou, a Ph.D. student from Harbin Institute of Technology (HIT).
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Joe-Hall-Lee&hide=jupyter%20notebook&show_icons=true&layout=compact&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
-  <a href="https://info.flagcounter.com/9Wmi"><img src="https://s05.flagcounter.com/count2/9Wmi/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
 </p>
 
-<h4 align="center"> Thanks for visiting! </h4>
+<p align="center">
+  <a href="https://info.flagcounter.com/9Wmi">
+    <a href="https://info.flagcounter.com/GZBh"><img src="https://s01.flagcounter.com/map/GZBh/size_s/txt_000000/border_CCCCCC/pageviews_1/viewers_0/flags_0/" alt="Flag Counter" border="0"></a>
+  </a>
+</p>
+
+<h4 align="center">✨ Thanks for visiting! ✨</h4>

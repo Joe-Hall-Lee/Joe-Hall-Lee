@@ -2,7 +2,7 @@
 # Hi there! :wave::smiley:
 
 <!-- Introduction -->
-I'm Hongli Zhou, a senior undergraduate student from Harbin Institute of Technology (HIT).
+I'm Hongli Zhou, a Ph.D. student from Harbin Institute of Technology (HIT).
 
 ### ✨ Quick Facts
 
@@ -35,6 +35,8 @@ I'm Hongli Zhou, a senior undergraduate student from Harbin Institute of Technol
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></code>
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Joe-Hall-Lee&hide=jupyter%20notebook&show_icons=true&layout=compact&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+  <a href="https://info.flagcounter.com/9Wmi"><img src="https://s05.flagcounter.com/count2/9Wmi/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
 </p>
 
 <h4 align="center"> Thanks for visiting! </h4>

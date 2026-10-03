@@ -1,29 +1,53 @@
-<!-- Greeting -->
-# Hi there! :wave::smiley:
+<div align="center">
 
-<!-- Introduction -->
-I'm Hongli Zhou, a Ph.D. student from Harbin Institute of Technology (HIT).
+# Hi there, I'm Hongli Zhou 👋
 
-### ✨ Quick Facts
+### Ph.D. Student in Computer Science @ HIT
 
-- 🌱 I’m currently learning @HIT
-- 🎿 Hobbies: Crosstalk, Pingshu, Chinese Chess
-- 📫 How to reach me: hongli.joe@gmail.com
-- 📝 [Homepage](https://joe-hall-lee.github.io)
+[![Homepage](https://img.shields.io/badge/🌐_Homepage-joe--hall--lee.github.io-blue?style=flat-square)](https://joe-hall-lee.github.io)
+[![Email](https://img.shields.io/badge/📧_Email-hongli.joe@gmail.com-red?style=flat-square)](mailto:hongli.joe@gmail.com)
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-Profile-4285F4?style=flat-square&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=1Ztm4XhDNvcC)
+[![Profile Views](https://komarev.com/ghpvc/?username=Joe-Hall-Lee&color=blueviolet&style=flat-square&label=Profile+Views)](https://github.com/Joe-Hall-Lee)
 
-### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> GitHub Stats
+</div>
 
-<!-- GitHub README Stats -->
-<p>
-    
-  ![GitHub Card](https://githubcard.com/Joe-Hall-Lee.svg?d=fobLtTDl)
+---
 
-</p>
+### 🔬 Research Interests
 
-<p align="center">
-  <a href="https://info.flagcounter.com/9Wmi">
-    <a href="https://info.flagcounter.com/GZBh"><img src="https://s01.flagcounter.com/map/GZBh/size_s/txt_000000/border_CCCCCC/pageviews_1/viewers_0/flags_0/" alt="Flag Counter" border="0"></a>
-  </a>
-</p>
+- **Large Language Models (LLMs)**
+  - LLM Evaluation & Benchmarking
+  - LLM-as-a-Judge
+  - Reward Modeling
 
-<h4 align="center">✨ Thanks for visiting! ✨</h4>
+### 📝 Selected Publications
+
+(* equal contribution, ✉ corresponding author)
+
+- **Hongli Zhou\***, Hui Huang\*, Ziqing Zhao, Lvyuan Han, Huicheng Wang, Kehai Chen, Muyun Yang✉, Wei Bao✉, Jian Dong✉, Bing Xu, Conghui Zhu, Hailong Cao, Tiejun Zhao. "Lost in Benchmarks? Rethinking Large Language Model Benchmarking with Item Response Theory." In *Proceedings of AAAI*, 2026. [[Paper]](https://arxiv.org/abs/2505.15055) [[Code]](https://github.com/Joe-Hall-Lee/PSN-IRT)
+
+- **Hongli Zhou\***, Hui Huang\*, Wei Liu\*, Chenglong Wang, Xingyuan Bu, Lvyuan Han, Fuhai Song, Muyun Yang✉, Wenhao Jiang, Hailong Cao, Tiejun Zhao. "RM-Distiller: Exploiting Generative LLM for Reward Model Distillation." In *Proceedings of IJCAI*, 2026. [[Paper]](https://arxiv.org/abs/2601.14032) [[Code]](https://github.com/Joe-Hall-Lee/RM-Distiller)
+
+- **Hongli Zhou\***, Hui Huang\*, Rui Zhang\*, Kehai Chen, Bing Xu, Conghui Zhu, Tiejun Zhao, Muyun Yang✉. "Toward Robust LLM-Based Judges: Taxonomic Bias Evaluation and Debiasing Optimization." *Information Fusion*, 2027. [[Paper]](https://arxiv.org/abs/2603.08091) [[Code]](https://github.com/Joe-Hall-Lee/JudgeBiasBench)
+
+### 🎯 About Me
+
+- 🏫 Currently studying at [MI&T Lab](https://mitlab.hit.edu.cn), Harbin Institute of Technology
+- 🎓 Supervised by Prof. [Muyun Yang](https://homepage.hit.edu.cn/yangmuyun)
+- 💼 Working at [ModelBest](https://modelbest.cn)
+- 🎭 Hobbies: Crosstalk, Pingshu, Chinese Chess
+- 📄 [Download my CV](https://joe-hall-lee.github.io/files/resume_en.pdf)
+
+---
+
+<div align="center">
+
+### 📊 GitHub Stats
+
+![GitHub Stats](https://githubcard.com/Joe-Hall-Lee.svg?d=fobLtTDl)
+
+---
+
+**✨ Thanks for visiting! ✨**
+
+</div>

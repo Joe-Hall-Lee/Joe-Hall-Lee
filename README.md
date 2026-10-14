@@ -7,7 +7,7 @@
 [![Homepage](https://img.shields.io/badge/🌐_Homepage-Joe--Hall--Lee.github.io-blue?style=flat-square)](https://Joe-Hall-Lee.github.io)
 [![Email](https://img.shields.io/badge/📧_Email-hongli.joe@gmail.com-red?style=flat-square)](mailto:hongli.joe@gmail.com)
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-Profile-4285F4?style=flat-square&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=1Ztm4XhDNvcC)
-[![Profile Views](https://komarev.com/ghpvc/?username=Joe-Hall-Lee&color=blueviolet&style=flat-square&label=Profile+Views)](https://github.com/Joe-Hall-Lee)
+[![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Joe-Hall-Lee.Joe-Hall-Lee&title=Visitors)](https://github.com/Joe-Hall-Lee)
 
 </div>
 

@@ -34,7 +34,6 @@
 
 - 🏫 Studying at [MI&T Lab](https://mitlab.hit.edu.cn), Harbin Institute of Technology
 - 🎓 Supervised by Prof. [Muyun Yang](https://homepage.hit.edu.cn/yangmuyun)
-- 💼 Working at [ModelBest](https://modelbest.cn)
 - 🎭 Hobbies: Crosstalk, Pingshu, Chinese Chess
 - 📄 [Download my CV](https://Joe-Hall-Lee.github.io/files/resume_en.pdf)
 
